@@ -1,0 +1,29 @@
+.red {
+    color: #f33;
+  }
+  
+  .yellow-bg {
+    background: #ffa;
+  }
+  
+  .fancy {
+    font-weight: bold;
+    text-shadow: 4px 4px 3px #77f;
+  }
+
+  .black-img {
+    border: 5px dotted black;
+    border-radius: 10%;
+  }
+
+  table, th, td {
+    border:1px solid black;
+  }
+
+  a:link {
+    color: red;
+  }
+
+  
+
+   
